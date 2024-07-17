@@ -38,6 +38,8 @@
  -->
  
 </div>
+![Snake animation](https://github.com/BrunoSSilva9)
+
 <!--
 **BrunoSSilva9/BrunoSSilva9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
