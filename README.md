@@ -5,11 +5,11 @@
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: a beginner lover of technology..
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoSSilva9&show_icons=true&theme=radical&ring_color=00FF00&include_all_commits=true" />
+    <a href="https://github.com/BrunoSSilva9/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BrunoSSilva9&show_icons=true&theme=radical&ring_color=00FF00&include_all_commits=true&card_width=200" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSSilva9&layout=compact&langs_count=8&card_width=250&theme=radical" />
+  <a href="https://github.com/BrunoSSilva9/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoSSilva9&layout=compact&langs_count=8&card_width=200&theme=radical" />
   </a>
 
 
